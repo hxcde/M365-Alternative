@@ -8,3 +8,6 @@
 | Forms | Nextcloud Forms | https://apps.nextcloud.com/apps/forms |
 | Visio | draw.io | https://www.drawio.com/ |
 | Planer | Focalboard | https://www.focalboard.com/ |
+| Word  | Libreoffice | https://de.libreoffice.org/ |
+| Excel | Libreoffice | https://de.libreoffice.org/ |
+| Powerpoint | Libreoffice | https://de.libreoffice.org/ |
