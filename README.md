@@ -13,4 +13,4 @@
 | Powerpoint | Libreoffice | https://de.libreoffice.org/ |
 | Power Apps | Appsmith | https://www.appsmith.com/ |
 | OneNote | Xournalpp | https://xournalpp.github.io/ |
-| OneNote | Trilium  | https://github.com/zadam/trilium |
+
