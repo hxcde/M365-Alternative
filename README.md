@@ -11,3 +11,4 @@
 | Word  | Libreoffice | https://de.libreoffice.org/ |
 | Excel | Libreoffice | https://de.libreoffice.org/ |
 | Powerpoint | Libreoffice | https://de.libreoffice.org/ |
+| Power Apps | Appsmith | https://www.appsmith.com/ |
